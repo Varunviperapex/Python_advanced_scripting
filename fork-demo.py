@@ -24,3 +24,4 @@ def parent_process():
         pass
 
 parent_process()
+#note that the parent and child are exactly the same to the binary level
